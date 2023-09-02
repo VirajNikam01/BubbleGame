@@ -87,3 +87,17 @@ html,body{
 #bubble:hover{
     background: #4dbc81;
 }
+@media (max-width:530px){
+    #pbtm{
+        overflow-y:hidden;
+    }
+    #ptop{
+        padding: 0px 10px;
+    }
+    #elem h3{
+        font-size: 16px;
+    }
+    #box{
+        gap: 2px;
+    }
+}

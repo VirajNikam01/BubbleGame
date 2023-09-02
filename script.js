@@ -1,4 +1,4 @@
-var time = 6;
+var time = 60;
 var rv = 0;
 var score = 0;
 
